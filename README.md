@@ -27,3 +27,11 @@ Ce projet contient trois exemples:
 * exagent: Montre l'utilisation des agents en Eiffel.
 * exthread: Montre l'utilisation des threads en Eiffel.
 * exmutex: Montre l'utilisation des mutex en Eiffel afin de synchroniser des Threads.
+
+Tris en python3
+---------------
+
+Cet exemple montre deux algorithmes de tri en utilisant Python3:
+
+* Tri bulle
+* Tri insertion
