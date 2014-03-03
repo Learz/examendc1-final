@@ -31,7 +31,9 @@ Ce projet contient trois exemples:
 Tris en python3
 ---------------
 
-Cet exemple montre deux algorithmes de tri en utilisant Python3:
+Cet exemple montre quatres algorithmes de tri en utilisant Python3:
 
 * Tri bulle
 * Tri insertion
+* Tri fusion
+* Tri rapide
