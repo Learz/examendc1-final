@@ -46,3 +46,5 @@ Cet exemple montre quatres algorithmes de tri en utilisant Python3:
 * Tri insertion
 * Tri fusion
 * Tri rapide
+
+Fusion crée par Marc-Antoine Renaud
